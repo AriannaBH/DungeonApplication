@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaLibrary\bin\Debug\PrincessaLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaLibrary\bin\Debug\PrincessaLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaLibrary\obj\Debug\PrincessaLibrary.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaLibrary\obj\Debug\PrincessaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaLibrary\obj\Debug\PrincessaLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaLibrary\obj\Debug\PrincessaLibrary.pdb

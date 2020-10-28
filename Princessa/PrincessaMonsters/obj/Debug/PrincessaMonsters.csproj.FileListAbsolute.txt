@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\bin\Debug\PrincessaMonsters.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\bin\Debug\PrincessaMonsters.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\bin\Debug\PrincessaLibrary.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\bin\Debug\PrincessaLibrary.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\obj\Debug\PrincessaMonsters.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\obj\Debug\PrincessaMonsters.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\obj\Debug\PrincessaMonsters.csproj.CopyComplete
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\obj\Debug\PrincessaMonsters.dll
+C:\Users\student\Documents\Visual Studio 2017\Projects\02_CSF2\CSF2\Princessa\PrincessaMonsters\obj\Debug\PrincessaMonsters.pdb
